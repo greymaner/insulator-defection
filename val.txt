@@ -1,0 +1,5 @@
+D:\insulator_cap/VOCdevkit/VOC2007/JPEGImages/072.jpg 407,458,490,519,0
+D:\insulator_cap/VOCdevkit/VOC2007/JPEGImages/119.jpg 776,468,835,522,0
+D:\insulator_cap/VOCdevkit/VOC2007/JPEGImages/260.jpg 1590,1228,1785,1400,0
+D:\insulator_cap/VOCdevkit/VOC2007/JPEGImages/28.jpg 295,390,327,432,0
+D:\insulator_cap/VOCdevkit/VOC2007/JPEGImages/555.jpg 1966,923,2193,1084,0
